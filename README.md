@@ -2,8 +2,6 @@
 
 Review or listen to thier voice click here: https://www.youtube.com/watch?v=nG418_dx24A&list=PLcyxaV3Xvuh7KvucTA49UcBZQFujmzq8C
 
-Download link: https://github.com/Exile1201/AzurLaneVoiceOver/releases/tag/v1.0
-
 Installation: Copy "banks" into /res_mods/a.b.c.d(current version)/
 
 If you want to Install Azur Lane Voices seperatly go here: https://exile1201.gitbook.io/exile1201/
