@@ -9,4 +9,4 @@ for the full list
 
 # Installation Guide
 
-How install mods go to res_mod/(current version)/banks/mods/ and dump all the voices and other mods into this folder
+How to install mods: go to res_mod/(current version)/banks/mods/ and dump all the voices and other mods into this folder
